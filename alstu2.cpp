@@ -10,9 +10,7 @@ int Ffunc(int x, int y, char color);
 
 int main()
 {
-	char head;			//맨 앞에 알파벳
-	char tail;			//바꿀 색깔(?)
-	string name;		//알파벳 S일 때 파일 이름
+	char head;		
 	int x1, x2, y1, y2;
 	
 	while(true)
